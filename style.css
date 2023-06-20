@@ -3,9 +3,10 @@
 
 *{
     text-align: center;
-    line-height: 1.9;;;
-    outline: 1px dotted rebeccapurple;
+    line-height: 1.9;
+    
     margin: 3px;
+    border: 1px dotted red;
     background-color: black;
     color: aliceblue;
     font-weight:900;
@@ -13,4 +14,16 @@
 }
 .alert-text{
     color: red;
+}
+.container{
+    background: hsla(298, 61%, 41%, 0.815);
+    width: 400px;
+    height: 200px;
+    overflow: auto;
+    border: 3px solid red;
+}
+.sContainer{
+    background-color: rgb(255, 52, 211);
+    margin: 10px;
+    padding: 10px;
 }
