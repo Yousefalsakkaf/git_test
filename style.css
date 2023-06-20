@@ -1,8 +1,15 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Kablammo&family=Roboto+Mono:wght@700&display=swap');
+
 *{
+    text-align: center;
+    line-height: 1.9;
+    outline: 1px dotted rebeccapurple;
+    margin: 3px;
     background-color: black;
     color: aliceblue;
     font-weight:900;
-    font-family: "Times New Roman", sans-serif;
+    font-family: "Kablammo","Roboto Mono";
 }
 .alert-text{
     color: red;
